@@ -1,0 +1,14 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\bin\Debug\Gun9-2.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\bin\Debug\Gun9-2.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\bin\Debug\Gun9-2.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9-2.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9_2.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9_2.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9-2.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9-2.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9-2.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9_2.Form2.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun9-2\Gun9-2\obj\Debug\Gun9_2.Form3.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun9-2\Gun9-2\bin\Debug\Gun9-2.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun9-2\Gun9-2\obj\Debug\Gun9-2.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun9-2\Gun9-2\obj\Debug\Gun9-2.pdb
