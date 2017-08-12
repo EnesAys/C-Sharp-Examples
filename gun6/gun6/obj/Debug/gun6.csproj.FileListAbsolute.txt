@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\bin\Debug\gun6.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\bin\Debug\gun6.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\bin\Debug\gun6.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\obj\Debug\gun6.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\obj\Debug\gun6.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun6\gun6\obj\Debug\gun6.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\bin\Debug\gun6.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\bin\Debug\gun6.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\bin\Debug\gun6.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\obj\Debug\gun6.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\obj\Debug\gun6.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\gun6\gun6\obj\Debug\gun6.pdb
