@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\bin\Debug\Gun10.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\bin\Debug\Gun10.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\bin\Debug\Gun10.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun10\Gun10\obj\Debug\Gun10.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun10\Gun10\bin\Debug\Gun10.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun10\Gun10\obj\Debug\Gun10.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\wissen\Gun10\Gun10\obj\Debug\Gun10.pdb
