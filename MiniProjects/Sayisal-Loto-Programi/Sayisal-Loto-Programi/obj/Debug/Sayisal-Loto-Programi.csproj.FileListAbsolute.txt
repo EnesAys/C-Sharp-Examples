@@ -1,0 +1,9 @@
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\bin\Debug\Sayisal-Loto-Programi.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\bin\Debug\Sayisal-Loto-Programi.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\bin\Debug\Sayisal-Loto-Programi.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal-Loto-Programi.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal_Loto_Programi.Form1.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal_Loto_Programi.Properties.Resources.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal-Loto-Programi.csproj.GenerateResource.Cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal-Loto-Programi.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sayisal-Loto-Programi\Sayisal-Loto-Programi\obj\Debug\Sayisal-Loto-Programi.pdb
