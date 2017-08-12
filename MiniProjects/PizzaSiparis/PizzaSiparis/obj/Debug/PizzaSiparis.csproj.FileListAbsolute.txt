@@ -1,0 +1,9 @@
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.Cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
