@@ -1,0 +1,6 @@
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\bin\Debug\Sesli-Sessiz-Harf-Bulma.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\obj\Debug\Sesli-Sessiz-Harf-Bulma.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\bin\Debug\Sesli-Sessiz-Harf-Bulma.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\bin\Debug\Sesli-Sessiz-Harf-Bulma.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\obj\Debug\Sesli-Sessiz-Harf-Bulma.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\Sesli-Sessiz-Harf-Bulma\Sesli-Sessiz-Harf-Bulma\obj\Debug\Sesli-Sessiz-Harf-Bulma.pdb
