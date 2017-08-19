@@ -1,0 +1,9 @@
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\bin\Debug\MiniStokTakip.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\bin\Debug\MiniStokTakip.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\bin\Debug\MiniStokTakip.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.Form1.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.Properties.Resources.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.csproj.GenerateResource.Cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\MiniStokTakip\MiniStokTakip\obj\Debug\MiniStokTakip.pdb
