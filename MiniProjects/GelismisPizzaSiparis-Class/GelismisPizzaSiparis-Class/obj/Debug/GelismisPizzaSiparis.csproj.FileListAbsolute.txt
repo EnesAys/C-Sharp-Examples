@@ -1,0 +1,9 @@
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\bin\Debug\GelismisPizzaSiparis-Class.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis-Class.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis-Class.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\bin\Debug\GelismisPizzaSiparis-Class.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\bin\Debug\GelismisPizzaSiparis-Class.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis_Class.Form1.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis_Class.Properties.Resources.resources
+C:\Users\EA\Documents\Visual Studio 2015\Projects\EnesAys\GelismisPizzaSiparis-Class\GelismisPizzaSiparis-Class\obj\Debug\GelismisPizzaSiparis.csproj.GenerateResource.Cache
