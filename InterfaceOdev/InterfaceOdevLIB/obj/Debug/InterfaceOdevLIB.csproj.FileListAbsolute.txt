@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdevLIB\bin\Debug\InterfaceOdevLIB.dll
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdevLIB\bin\Debug\InterfaceOdevLIB.pdb
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdevLIB\obj\Debug\InterfaceOdevLIB.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdevLIB\obj\Debug\InterfaceOdevLIB.dll
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdevLIB\obj\Debug\InterfaceOdevLIB.pdb

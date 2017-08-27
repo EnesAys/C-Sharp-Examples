@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\bin\Debug\InterfaceOdev.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\bin\Debug\InterfaceOdev.exe
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\bin\Debug\InterfaceOdev.pdb
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\bin\Debug\InterfaceOdevLIB.dll
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\bin\Debug\InterfaceOdevLIB.pdb
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.exe
+c:\users\asus\documents\visual studio 2015\Projects\InterfaceOdev\InterfaceOdev\obj\Debug\InterfaceOdev.pdb
