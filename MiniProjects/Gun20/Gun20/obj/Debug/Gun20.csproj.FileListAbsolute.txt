@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\bin\Debug\Gun20.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\bin\Debug\Gun20.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\bin\Debug\Gun20.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun20\Gun20\obj\Debug\Gun20.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun20\Gun20\bin\Debug\Gun20.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun20\Gun20\obj\Debug\Gun20.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun20\Gun20\obj\Debug\Gun20.pdb
