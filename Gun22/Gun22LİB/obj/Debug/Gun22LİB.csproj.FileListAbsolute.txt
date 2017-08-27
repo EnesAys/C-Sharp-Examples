@@ -1,0 +1,9 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun22\Gun22LİB\bin\Debug\Gun22LİB.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun22\Gun22LİB\bin\Debug\Gun22LİB.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun22\Gun22LİB\obj\Debug\Gun22LİB.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\Gun22\Gun22LİB\obj\Debug\Gun22LİB.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun22\Gun22LİB\bin\Debug\Gun22LİB.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun22\Gun22LİB\bin\Debug\Gun22LİB.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun22\Gun22LİB\obj\Debug\Gun22LİB.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun22\Gun22LİB\obj\Debug\Gun22LİB.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Wissen\Gun22\Gun22LİB\obj\Debug\Gun22LİB.pdb
