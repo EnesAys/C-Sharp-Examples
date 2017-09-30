@@ -1,0 +1,9 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\bin\Debug\gun25-09-17-WebAPI.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\bin\Debug\gun25-09-17-WebAPI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\bin\Debug\gun25-09-17-WebAPI.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25-09-17-WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25_09_17_WebAPI.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25_09_17_WebAPI.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25-09-17-WebAPI.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25-09-17-WebAPI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun25-09-17-WebAPI\gun25-09-17-WebAPI\obj\Debug\gun25-09-17-WebAPI.pdb
