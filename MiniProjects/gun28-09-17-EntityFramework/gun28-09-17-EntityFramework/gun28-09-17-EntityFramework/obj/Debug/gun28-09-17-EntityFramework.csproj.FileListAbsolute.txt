@@ -1,0 +1,13 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\gun28-09-17-EntityFramework.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28-09-17-EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28_09_17_EntityFramework.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28_09_17_EntityFramework.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28-09-17-EntityFramework.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\gun28-09-17-EntityFramework.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\gun28-09-17-EntityFramework.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28-09-17-EntityFramework.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\obj\Debug\gun28-09-17-EntityFramework.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun28-09-17-EntityFramework\gun28-09-17-EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
