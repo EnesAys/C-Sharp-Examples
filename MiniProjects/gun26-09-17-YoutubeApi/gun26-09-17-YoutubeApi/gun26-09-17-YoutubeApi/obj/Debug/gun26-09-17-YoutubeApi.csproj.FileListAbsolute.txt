@@ -1,0 +1,9 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\bin\Debug\gun26-09-17-YoutubeApi.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\bin\Debug\gun26-09-17-YoutubeApi.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\bin\Debug\gun26-09-17-YoutubeApi.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26-09-17-YoutubeApi.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26_09_17_YoutubeApi.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26_09_17_YoutubeApi.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26-09-17-YoutubeApi.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26-09-17-YoutubeApi.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun26-09-17-YoutubeApi\gun26-09-17-YoutubeApi\obj\Debug\gun26-09-17-YoutubeApi.pdb
