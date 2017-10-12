@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FilmlerDBModelStoreContainer" CdmEntityContainer="FilmlerDBEntities">
+    <EntitySetMapping Name="Filmlers">
+      <EntityTypeMapping TypeName="FilmlerDBModel.Filmler">
+        <MappingFragment StoreEntitySet="Filmler">
+          <ScalarProperty Name="FilmID" ColumnName="FilmID" />
+          <ScalarProperty Name="FilmAd" ColumnName="FilmAd" />
+          <ScalarProperty Name="YayinTarihi" ColumnName="YayinTarihi" />
+          <ScalarProperty Name="YonetmenID" ColumnName="YonetmenID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FilmOyunculars">
+      <EntityTypeMapping TypeName="FilmlerDBModel.FilmOyuncular">
+        <MappingFragment StoreEntitySet="FilmOyuncular">
+          <ScalarProperty Name="FilmOyuncuID" ColumnName="FilmOyuncuID" />
+          <ScalarProperty Name="FilmID" ColumnName="FilmID" />
+          <ScalarProperty Name="OyuncuID" ColumnName="OyuncuID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Oyunculars">
+      <EntityTypeMapping TypeName="FilmlerDBModel.Oyuncular">
+        <MappingFragment StoreEntitySet="Oyuncular">
+          <ScalarProperty Name="OyuncuID" ColumnName="OyuncuID" />
+          <ScalarProperty Name="OyuncuAdi" ColumnName="OyuncuAdi" />
+          <ScalarProperty Name="OyuncuSoyadi" ColumnName="OyuncuSoyadi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="FilmlerDBModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yonetmenlers">
+      <EntityTypeMapping TypeName="FilmlerDBModel.Yonetmenler">
+        <MappingFragment StoreEntitySet="Yonetmenler">
+          <ScalarProperty Name="YonetmenID" ColumnName="YonetmenID" />
+          <ScalarProperty Name="YonetmenAdi" ColumnName="YonetmenAdi" />
+          <ScalarProperty Name="YonetmenSoyadi" ColumnName="YonetmenSoyadi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

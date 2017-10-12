@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\Reflection.BLL.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\Reflection.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\Reflection.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\Reflection.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\Reflection.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\obj\Debug\Reflection.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\obj\Debug\Reflection.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.BLL\obj\Debug\Reflection.BLL.pdb

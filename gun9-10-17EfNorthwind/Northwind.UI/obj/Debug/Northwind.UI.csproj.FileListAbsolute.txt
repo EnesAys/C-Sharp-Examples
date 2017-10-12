@@ -1,0 +1,17 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.UI.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.UI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.UI.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\Northwind.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.UI\obj\Debug\Northwind.UI.pdb

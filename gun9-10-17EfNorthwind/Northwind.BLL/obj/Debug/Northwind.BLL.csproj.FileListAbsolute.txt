@@ -1,0 +1,12 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\Northwind.BLL.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\Northwind.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\Northwind.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\Northwind.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\Northwind.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\obj\Debug\Northwind.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\obj\Debug\Northwind.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun9-10-17EfNorthwind\Northwind.BLL\obj\Debug\Northwind.BLL.pdb

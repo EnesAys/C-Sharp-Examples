@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FilmlerDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Filmler">
+    <Key>
+      <PropertyRef Name="FilmID" />
+    </Key>
+    <Property Name="FilmID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FilmAd" Type="nvarchar" MaxLength="50" />
+    <Property Name="YayinTarihi" Type="date" />
+    <Property Name="YonetmenID" Type="int" />
+  </EntityType>
+  <EntityType Name="FilmOyuncular">
+    <Key>
+      <PropertyRef Name="FilmOyuncuID" />
+    </Key>
+    <Property Name="FilmOyuncuID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FilmID" Type="int" />
+    <Property Name="OyuncuID" Type="int" />
+  </EntityType>
+  <EntityType Name="Oyuncular">
+    <Key>
+      <PropertyRef Name="OyuncuID" />
+    </Key>
+    <Property Name="OyuncuID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OyuncuAdi" Type="nvarchar" MaxLength="10" />
+    <Property Name="OyuncuSoyadi" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Yonetmenler">
+    <Key>
+      <PropertyRef Name="YonetmenID" />
+    </Key>
+    <Property Name="YonetmenID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YonetmenAdi" Type="nvarchar" MaxLength="10" />
+    <Property Name="YonetmenSoyadi" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="FK_Filmler_Yonetmenler">
+    <End Role="Yonetmenler" Type="Self.Yonetmenler" Multiplicity="0..1" />
+    <End Role="Filmler" Type="Self.Filmler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Yonetmenler">
+        <PropertyRef Name="YonetmenID" />
+      </Principal>
+      <Dependent Role="Filmler">
+        <PropertyRef Name="YonetmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FilmOyuncular_Filmler">
+    <End Role="Filmler" Type="Self.Filmler" Multiplicity="0..1" />
+    <End Role="FilmOyuncular" Type="Self.FilmOyuncular" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Filmler">
+        <PropertyRef Name="FilmID" />
+      </Principal>
+      <Dependent Role="FilmOyuncular">
+        <PropertyRef Name="FilmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FilmOyuncular_Oyuncular">
+    <End Role="Oyuncular" Type="Self.Oyuncular" Multiplicity="0..1" />
+    <End Role="FilmOyuncular" Type="Self.FilmOyuncular" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oyuncular">
+        <PropertyRef Name="OyuncuID" />
+      </Principal>
+      <Dependent Role="FilmOyuncular">
+        <PropertyRef Name="OyuncuID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FilmlerDBModelStoreContainer">
+    <EntitySet Name="Filmler" EntityType="Self.Filmler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FilmOyuncular" EntityType="Self.FilmOyuncular" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oyuncular" EntityType="Self.Oyuncular" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yonetmenler" EntityType="Self.Yonetmenler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Filmler_Yonetmenler" Association="Self.FK_Filmler_Yonetmenler">
+      <End Role="Yonetmenler" EntitySet="Yonetmenler" />
+      <End Role="Filmler" EntitySet="Filmler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FilmOyuncular_Filmler" Association="Self.FK_FilmOyuncular_Filmler">
+      <End Role="Filmler" EntitySet="Filmler" />
+      <End Role="FilmOyuncular" EntitySet="FilmOyuncular" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FilmOyuncular_Oyuncular" Association="Self.FK_FilmOyuncular_Oyuncular">
+      <End Role="Oyuncular" EntitySet="Oyuncular" />
+      <End Role="FilmOyuncular" EntitySet="FilmOyuncular" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

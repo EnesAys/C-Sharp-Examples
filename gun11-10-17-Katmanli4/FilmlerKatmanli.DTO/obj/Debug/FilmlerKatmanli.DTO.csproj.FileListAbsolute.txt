@@ -1,0 +1,10 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\FilmlerKatmanli.DTO.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\FilmlerKatmanli.DTO.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\FilmlerKatmanli.DTO.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\obj\Debug\FilmlerKatmanli.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\obj\Debug\FilmlerKatmanli.DTO.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DTO\obj\Debug\FilmlerKatmanli.DTO.pdb

@@ -1,0 +1,14 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\obj\Debug\FilmlerKatmanli.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.BLL.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.DTO.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\FilmlerKatmanli.DTO.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\obj\Debug\FilmlerKatmanli.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.BLL\obj\Debug\FilmlerKatmanli.BLL.pdb

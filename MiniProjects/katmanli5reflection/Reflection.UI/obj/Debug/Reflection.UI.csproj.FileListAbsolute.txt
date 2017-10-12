@@ -1,0 +1,17 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.UI.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.UI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.UI.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\Reflection.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.Form1.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\katmanli5reflection\Reflection.UI\obj\Debug\Reflection.UI.pdb

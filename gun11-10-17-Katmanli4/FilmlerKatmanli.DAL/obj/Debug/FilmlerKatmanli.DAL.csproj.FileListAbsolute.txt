@@ -1,0 +1,10 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\FilmlerKatmanli.DAL.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\FilmlerKatmanli.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\FilmlerKatmanli.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\obj\Debug\FilmlerKatmanli.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\obj\Debug\FilmlerKatmanli.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun11-10-17-Katmanli4\FilmlerKatmanli.DAL\obj\Debug\FilmlerKatmanli.DAL.pdb
