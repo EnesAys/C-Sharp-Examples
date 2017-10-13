@@ -1,0 +1,13 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\gun13-10-17-KatmanliCodeFirst.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\gun13-10-17-KatmanliCodeFirst.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\gun13-10-17-KatmanliCodeFirst.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13-10-17-KatmanliCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13_10_17_KatmanliCodeFirst.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13-10-17-KatmanliCodeFirst.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13-10-17-KatmanliCodeFirst.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13-10-17-KatmanliCodeFirst.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\Enesays\gun13-10-17-KatmanliCodeFirst\gun13-10-17-KatmanliCodeFirst\obj\Debug\gun13_10_17_KatmanliCodeFirst.Form1.resources
