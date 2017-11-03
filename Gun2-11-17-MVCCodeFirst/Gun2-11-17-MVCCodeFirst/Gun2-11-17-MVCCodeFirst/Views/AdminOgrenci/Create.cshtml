@@ -1,0 +1,59 @@
+﻿@model Gun2_11_17_MVCCodeFirst.Models.Ogrenci
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+    //İstediğimiz bilgileri araya sızıntı olmasın başka kaynaklar erişemesin diye bir key tutuyor.
+    //Bu key istemcide ki keyle eşleşirse gönderiyor bilgileri
+    //Bunu Controllerda validateforgery token karşılayacak
+    <div class="form-horizontal">
+        <h4>Öğrenci</h4> <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-10">
+
+                @Html.LabelFor(model => model.AdSoyad, htmlAttributes: new { @class = "control-label-col-md-2" })
+                @Html.EditorFor(model => model.AdSoyad, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.AdSoyad, "", new { @class = "text-deger" })
+            </div>
+            <div class="col-md-10">
+
+                @Html.LabelFor(model => model.DogumTariihi, htmlAttributes: new { @class = "control-label-col-md-2" })
+                @Html.EditorFor(model => model.DogumTariihi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DogumTariihi, "", new { @class = "text-deger" })
+            </div>
+            <div class="col-md-10">
+
+                @Html.LabelFor(model => model.MezunMu, htmlAttributes: new { @class = "control-label-col-md-2" })
+                @Html.EditorFor(model => model.MezunMu, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MezunMu, "", new { @class = "text-deger" })
+            </div>
+            <div class="col-md-10">
+
+                @Html.LabelFor(model => model.Ortalama, htmlAttributes: new { @class = "control-label-col-md-2" })
+                @Html.EditorFor(model => model.Ortalama, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Ortalama, "", new { @class = "text-deger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    <div>
+        @Html.ActionLink("back to list", "Index")
+    </div>
+
+    @section Scripts{
+        @Scripts.Render("~/bundles/jqueryval")
+
+    }
+
+}

@@ -1,0 +1,44 @@
+﻿@model Gun2_11_17_MVCCodeFirst.Models.Egitmen
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h>Silmek istediğinize Emiin Misiniz?</h>
+<div>
+    <h4>Ders</h4>
+    <br />
+    <dl class="dl-horizontal">
+        @*Listeleme yapar*@
+    <dt>
+        @Html.DisplayNameFor(model => model.AdSoyad)
+
+        @*DisplayNameFor dediğim propertyde ki değeri okur.Kullanıcının gördüğü*@
+        @*dt dediğimde tanım yapar*@
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.AdSoyad)
+
+        @*DisplayFor ise değeri label içerisine yazdırır.*@
+        @*dd dediğimde açıklama*@
+
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.DogumTarihi)
+
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.DogumTarihi)
+
+    </dd>
+</dl>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-actions no-color">
+        <input type="submit" value="Delete" class="btn btn-default" />
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+}
+</div>

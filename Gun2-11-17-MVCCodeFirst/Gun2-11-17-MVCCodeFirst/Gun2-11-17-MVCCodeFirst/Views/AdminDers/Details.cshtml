@@ -1,0 +1,40 @@
+﻿@model Gun2_11_17_MVCCodeFirst.Models.Ders
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ders</h4>
+    <br />
+    <dl class="dl-horizontal">
+        @*Listeleme yapar*@
+    <dt>
+        @Html.DisplayNameFor(model => model.DersAdi)
+
+        @*DisplayNameFor dediğim propertyde ki değeri okur.Kullanıcının gördüğü*@
+        @*dt dediğimde tanım yapar*@
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.DersAdi)
+
+        @*DisplayFor ise değeri label içerisine yazdırır.*@
+        @*dd dediğimde açıklama*@
+
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Aciklama)
+
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Aciklama)
+
+    </dd>
+</dl>
+
+</div>
+<p>
+    @Html.ActionLink("Edit","Edit",new { id=Model.ID})|
+    @Html.ActionLink("Back to List","Index")
+</p>
