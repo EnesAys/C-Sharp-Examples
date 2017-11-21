@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "AddFailureLogin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Teknik.Entity.Entities.Ariza
+
+<h2>Arıza Kayıt Formu</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(false)
+
+    @Html.TextBoxFor(x=> x.Baslik, new {@class="form-control",@placeholder="Arazı Kayıt Konusu" })
+    @Html.ValidationMessageFor(x=> x.Baslik)
+    <br />
+
+    @Html.TextAreaFor(x=> x.Aciklama, new { @class = "form-control",@placeholder="Arıza Kayıt Açıklaması" })
+    @Html.ValidationMessageFor(x => x.Aciklama)
+    <br />
+
+    @Html.TextAreaFor(x => x.Adres, new { @class = "form-control", @placeholder = "Arıza Kayıt Adresi" })
+    @Html.ValidationMessageFor(x => x.Adres)
+    <br />
+
+    @Html.DropDownList("ModelID",((List<SelectListItem>)ViewBag.ModelDrp),"Lütfen Bir Model Seçiniz",new {@class="form-control" })
+    @Html.ValidationMessage("ModelID")
+    <br />
+
+    <input class="btn btn-primary" type="submit" name="name" value="Arıza Kaydı Oluştur" />
+
+}
+

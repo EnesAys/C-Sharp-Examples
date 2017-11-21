@@ -1,0 +1,174 @@
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\csc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\vbc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\VBCSCompiler.exe
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.MVC.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.MVC.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.MVC.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Antlr3.Runtime.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\EntityFramework.SqlServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Web.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Newtonsoft.Json.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Helpers.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Mvc.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Optimization.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Razor.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\WebGrease.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Web.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Helpers.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Mvc.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Optimization.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.Razor.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Antlr3.Runtime.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Newtonsoft.Json.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\EntityFramework.SqlServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.Entity.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.Entity.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.MVC\bin\Teknik.DAL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\obj\Debug\Teknik.MVC.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.MVC.dll.config
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.MVC.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.MVC.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.BLL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.DAL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.Entity.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\WebGrease.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.BLL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.DAL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Teknik.Entity.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml

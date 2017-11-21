@@ -1,0 +1,37 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/admin/bundles/css")
+    @Scripts.Render("~/admin/bundles/script")
+    @RenderSection("aftercss", false)
+</head>
+<body>
+    <div id="body-wrapper">
+        
+        @Html.Partial("_sidebar")
+
+        <div id="main-content">
+            @RenderBody()
+        </div>
+    </div>
+    @RenderSection("afterscript", false)
+</body>
+</html>
+
+
+@*@section aftercss{
+
+        <link href="my.css"/>
+
+        }
+
+    @section afterscript{
+        <script src="my.js"/>
+
+        }*@

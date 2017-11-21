@@ -1,0 +1,62 @@
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Newtonsoft.Json.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Newtonsoft.Json.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Teknik.Entity.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\bin\Debug\Teknik.Entity.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.Migrations.a.resources
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.dll.config
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Teknik.DAL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Teknik.Entity.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Teknik.Entity.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.Migrations.v1.resources
+C:\Users\Asus\Desktop\TeknikServis\Teknik.DAL\obj\Debug\Teknik.DAL.csproj.GenerateResource.Cache

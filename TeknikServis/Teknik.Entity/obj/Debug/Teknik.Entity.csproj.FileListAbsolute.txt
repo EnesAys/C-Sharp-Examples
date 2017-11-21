@@ -1,0 +1,54 @@
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Newtonsoft.Json.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Owin.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\bin\Debug\Newtonsoft.Json.xml
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.dll
+c:\users\wissen\documents\visual studio 2015\Projects\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.dll.config
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Teknik.Entity.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.Entity\obj\Debug\Teknik.Entity.pdb

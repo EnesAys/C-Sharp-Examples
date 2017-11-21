@@ -1,0 +1,62 @@
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.dll.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Owin.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.DAL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.Entity.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.DAL.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Teknik.Entity.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.dll
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.dll.config
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.BLL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Owin.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.DAL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.Entity.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.DAL.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Teknik.Entity.pdb
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.dll
+C:\Users\Asus\Desktop\TeknikServis\Teknik.BLL\obj\Debug\Teknik.BLL.pdb
