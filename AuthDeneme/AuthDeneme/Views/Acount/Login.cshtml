@@ -1,0 +1,34 @@
+﻿@model AuthDeneme.Models.Login
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Giriş</h2>
+
+@Html.ValidationSummary()
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x=>x.UserName)</td>
+                <td>   @Html.TextBoxFor(x=>x.UserName) </td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.Password)</td>
+                <td>   @Html.EditorFor(x => x.Password) </td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.RememberMe)</td>
+                <td>   @Html.EditorFor(x => x.RememberMe) </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td> <input type="submit" value="Giriş Yap" class="btn btn-default" </td>
+            </tr>
+        </tbody>
+    </table>
+}

@@ -1,0 +1,10 @@
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\AuthDeneme.DAL.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\AuthDeneme.DAL.dll
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\AuthDeneme.DAL.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\obj\Debug\AuthDeneme.DAL.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\obj\Debug\AuthDeneme.DAL.dll
+c:\users\wissen\documents\visual studio 2015\Projects\AuthDeneme\AuthDeneme.DAL\obj\Debug\AuthDeneme.DAL.pdb

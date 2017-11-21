@@ -1,0 +1,46 @@
+﻿@model AuthDeneme.Models.Register
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Üye Kayıt</h2>
+
+@Html.ValidationSummary()
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x=>x.Ad)</td>
+                <td>@Html.TextBoxFor(x=>x.Ad)</td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.Soyad)</td>
+                <td>@Html.TextBoxFor(x => x.Soyad)</td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.UserName)</td>
+                <td>@Html.TextBoxFor(x => x.UserName)</td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.Email)</td>
+                <td>@Html.EditorFor(x => x.Email)</td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.Password)</td>
+                <td>@Html.EditorFor(x => x.Password)</td>
+            </tr>
+            <tr>
+                <td style="width:200px">@Html.LabelFor(x => x.ConfirmPassword)</td>
+                <td>@Html.EditorFor(x => x.ConfirmPassword)</td>
+            </tr>
+            <tr>
+                <td ></td>
+                <td><input type="submit" value="Kaydol" class="btn btn-default"/></td>
+            </tr>
+                
+        </tbody>
+    </table>
+}
+
