@@ -1,0 +1,1 @@
+Xml Request ve Response, varsayılan olarak bin/debug/ altına kaydedilmektedir.

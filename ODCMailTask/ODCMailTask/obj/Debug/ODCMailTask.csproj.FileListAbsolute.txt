@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\bin\Debug\ODCMailTask.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\bin\Debug\ODCMailTask.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\bin\Debug\ODCMailTask.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\obj\Debug\ODCMailTask.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\obj\Debug\ODCMailTask.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\ODCMailTask\ODCMailTask\obj\Debug\ODCMailTask.pdb

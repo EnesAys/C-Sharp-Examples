@@ -1,0 +1,90 @@
+-----------------------------
+Date : 15.12.2017 18:17:18	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>ODC mail Task</MSG>
+      <TA>enesaysan8@gmail.com</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:27:40	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>dasdsa</MSG>
+      <TA>enesaysan8@gmail.com</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:30:05	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>ssssssssssssssssss</MSG>
+      <TA>6e@6e</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:31:50	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>Merhaba Enes</MSG>
+      <TA>enesaysan8@gmail.com</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:35:08	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>ODC api test</MSG>
+      <TA>enesaysan8@gmail.com</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:40:32	 request : data=<SENDEML>
+  <USR>training_user</USR>
+  <PWD>P@ssw0rd</PWD>
+  <JID>47de74b5-8c7e-4e33-a55a-a7ba00f4ecdc</JID>
+  <CG>Standart</CG>
+  <SBJ>SM Engage Campaign</SBJ>
+  <RCPT_LIST>
+    <RCPT>
+      <MSG>Merhaba Ben Enes</MSG>
+      <TA>enesaysan8@gmail.com</TA>
+    </RCPT>
+  </RCPT_LIST>
+</SENDEML>
+-----------------------------

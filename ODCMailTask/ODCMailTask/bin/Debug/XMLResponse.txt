@@ -1,0 +1,15 @@
+-----------------------------
+Date : 15.12.2017 18:27:41	 response : <?xml version="1.0" encoding="utf-8"?><SENDEMLRSP><RTCD>1</RTCD><EXP>OK</EXP><TOTALCOUNT>1</TOTALCOUNT><SUCCESSCOUNT>1</SUCCESSCOUNT><FAILEDCOUNT>0</FAILEDCOUNT><RSP_LIST><RSP><MSGID>4abc7340-9982-4a7d-a646-a84a012fb0bb</MSGID><EID /><CNO /><RESULT /></RSP></RSP_LIST></SENDEMLRSP>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:30:06	 response : <?xml version="1.0" encoding="utf-8"?><SENDEMLRSP><RTCD>1</RTCD><EXP>OK</EXP><TOTALCOUNT>1</TOTALCOUNT><SUCCESSCOUNT>0</SUCCESSCOUNT><FAILEDCOUNT>1</FAILEDCOUNT><RSP_LIST><RSP><MSGID /><EID /><CNO /><RESULT>TARGET ADDRESS VALIDATION FAILED.</RESULT></RSP></RSP_LIST></SENDEMLRSP>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:31:51	 response : <?xml version="1.0" encoding="utf-8"?><SENDEMLRSP><RTCD>1</RTCD><EXP>OK</EXP><TOTALCOUNT>1</TOTALCOUNT><SUCCESSCOUNT>1</SUCCESSCOUNT><FAILEDCOUNT>0</FAILEDCOUNT><RSP_LIST><RSP><MSGID>a3066fde-9a55-4699-a593-a84a0130d4ee</MSGID><EID /><CNO /><RESULT /></RSP></RSP_LIST></SENDEMLRSP>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:35:09	 response : <?xml version="1.0" encoding="utf-8"?><SENDEMLRSP><RTCD>1</RTCD><EXP>OK</EXP><TOTALCOUNT>1</TOTALCOUNT><SUCCESSCOUNT>1</SUCCESSCOUNT><FAILEDCOUNT>0</FAILEDCOUNT><RSP_LIST><RSP><MSGID>ffd6d2f1-51cc-4895-b289-a84a0131bd00</MSGID><EID /><CNO /><RESULT /></RSP></RSP_LIST></SENDEMLRSP>
+-----------------------------
+-----------------------------
+Date : 15.12.2017 18:40:33	 response : <?xml version="1.0" encoding="utf-8"?><SENDEMLRSP><RTCD>1</RTCD><EXP>OK</EXP><TOTALCOUNT>1</TOTALCOUNT><SUCCESSCOUNT>1</SUCCESSCOUNT><FAILEDCOUNT>0</FAILEDCOUNT><RSP_LIST><RSP><MSGID>feb1ce1b-d665-4f99-8932-a84a0133388b</MSGID><EID /><CNO /><RESULT /></RSP></RSP_LIST></SENDEMLRSP>
+-----------------------------
