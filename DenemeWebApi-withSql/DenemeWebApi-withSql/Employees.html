@@ -1,0 +1,37 @@
+﻿ <!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">// Api Aracılığı ile butona tıklayınca veri getirme
+        $(document).ready(function () {
+            var ulEmployees = $('#ulEmployees');
+            $('#btn').click(function () { // GetAllEmployees butonuna tıklanınca ne yapılacağı
+                $.ajax({
+                    type: 'GET',
+                    url: "http://localhost:63680/api/employees/",
+                    datatype: 'json',
+                    success:function (data) {
+                        ulEmployees.empty();
+                        $.each(data, function (index,val) {
+                            var fullName = val.FirstName + ' ' + val.LastName;
+                            ulEmployees.append('<li>'+fullName+'</li');
+                        })
+                    }
+                });
+
+            });
+
+            $('#btnTemizle').click(function () {//Clear Butonuna Basınca Ne Yapılcağı
+                ulEmployees.empty();
+            });
+        });
+    </script>
+</head>
+<body>
+    <input id="btn" type="button"value="GetAllEmployees"/> <!--İd kısmı önemli. Çünkü yukarıda da aynı idyi kullanıyoruz-->
+    <input id="btnTemizle" type="button" value="Clear" /> 
+    <ul id="ulEmployees"></ul>
+</body>
+</html>

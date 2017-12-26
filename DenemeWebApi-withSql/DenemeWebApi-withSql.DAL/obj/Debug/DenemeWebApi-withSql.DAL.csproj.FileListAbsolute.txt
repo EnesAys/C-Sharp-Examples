@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\DenemeWebApi-withSql.DAL.dll.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\DenemeWebApi-withSql.DAL.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\DenemeWebApi-withSql.DAL.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\obj\Debug\DenemeWebApi-withSql.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\obj\Debug\DenemeWebApi-withSql.DAL.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\EnesAys\DenemeWebApi-withSql\DenemeWebApi-withSql.DAL\obj\Debug\DenemeWebApi-withSql.DAL.pdb
